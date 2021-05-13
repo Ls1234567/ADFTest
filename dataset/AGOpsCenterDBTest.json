@@ -1,5 +1,5 @@
 {
-	"name": "AGOpsCenterDBTest1",
+	"name": "AGOpsCenterDBTest",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AGOpsCenter Kusto Test",
