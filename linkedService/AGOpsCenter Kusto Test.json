@@ -1,0 +1,11 @@
+{
+	"name": "AGOpsCenter Kusto Test",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataExplorer",
+		"typeProperties": {
+			"endpoint": "https://agopscentertest.eastus.kusto.windows.net",
+			"database": "agopscentertestdb"
+		}
+	}
+}
