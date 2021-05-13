@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitTest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d362388-5870-4123-ae08-983d44c9d2a9",
+		"tenantId": "cdc5aeea-15c5-4db6-b079-fcadd2505dc2"
+	}
+}
