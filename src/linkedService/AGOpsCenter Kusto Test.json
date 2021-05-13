@@ -1,5 +1,6 @@
 {
 	"name": "AGOpsCenter Kusto Test",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
 		"type": "AzureDataExplorer",
