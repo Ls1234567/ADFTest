@@ -1,0 +1,15 @@
+{
+	"name": "AGOpsCenterDBTest1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AGOpsCenter Kusto Test",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureDataExplorerTable",
+		"schema": [],
+		"typeProperties": {
+			"table": "test1"
+		}
+	}
+}
